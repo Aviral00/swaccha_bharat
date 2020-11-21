@@ -45,8 +45,8 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="10dp"
         android:layout_weight="0"
-        android:background="@drawable/rounded_corner"
+        android:backgroundTint="#9AD3BC"
         android:text="@string/next"
-        android:textColor="#1E1D1D"
-        android:textSize="18sp" />
+        android:textColor="#0E0E0E"
+        android:textSize="16sp" />
 </LinearLayout>
